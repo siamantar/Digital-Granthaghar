@@ -123,7 +123,7 @@ public class BooksEntry extends JFrame {
 		lblItemLocation.setMinimumSize(new Dimension(40, 15));
 		lblItemLocation.setMaximumSize(new Dimension(40, 15));
 		
-		JLabel lblQuantity = new JLabel("Item Count :");
+		JLabel lblQuantity = new JLabel("Item Count:");
 		lblQuantity.setFont(new Font("Cambria", Font.PLAIN, 25));
 		lblQuantity.setMinimumSize(new Dimension(40, 15));
 		lblQuantity.setMaximumSize(new Dimension(40, 15));
