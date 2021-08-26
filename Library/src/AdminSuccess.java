@@ -122,3 +122,4 @@ public class AdminSuccess extends JFrame {
 		contentPane.setLayout(gl_contentPane);
 	}
 }
+
