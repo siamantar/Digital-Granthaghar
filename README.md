@@ -1,4 +1,4 @@
-# e-Granthagar: A digital Library Management System  
+# e-Granthagar: A Digital Library Management System  
 
 e-Granthagar is a stand-alone application for both desktop and laptop users, for storing and keeping track of Librarians as well as books & novels in an organized and sophisticated manner. It is designed and developed in such a way as to maintain, organize, and handle countless books systematically. Not only does the system track the number of books available in the library but it  also issues books to users and automatically update the report date and time. Librarians will also be able to search any record of books by its category (i.e. ISBN, Author, Title, etc.). The most distinctive feature of the project is how it will reduce the manual labour burden of the librarians and replace paperworks. 
 
