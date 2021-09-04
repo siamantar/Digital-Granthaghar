@@ -59,7 +59,7 @@ public class BooksSearch extends JFrame {
 				String sql = "Title LIKE '%"+searchKey+"%'";
 				BooksSearchTitle.main(new String[]{});
 				BooksSearchTitle.sbName(sql);
-				frame.dispose();
+				//frame.dispose();
 				//System.out.println(sql);
 			
 			}
@@ -74,7 +74,7 @@ public void actionPerformed(ActionEvent e) {
 				String sql = "Author LIKE '%"+searchKey+"%'";
 				BooksSearchAuthor.main(new String[]{});
 				BooksSearchAuthor.sbName(sql);
-				frame.dispose();
+				//frame.dispose();
 				//System.out.println(sql);
 			
 			}
@@ -89,7 +89,7 @@ public void actionPerformed(ActionEvent e) {
 				String sql = "ISBN LIKE '%"+searchKey+"%'";
 				BooksSearchISBN.main(new String[]{});
 				BooksSearchISBN.sbName(sql);
-				frame.dispose();
+				//frame.dispose();
 				//System.out.println(sql);
 			}
 		});
@@ -102,7 +102,7 @@ public void actionPerformed(ActionEvent e) {
 				String sql = "PublicationYear LIKE '%"+searchKey+"%'";
 				BooksSearchPubYear.main(new String[]{});
 				BooksSearchPubYear.sbName(sql);
-				frame.dispose();
+				//frame.dispose();
 				//System.out.println(sql);
 			}
 		});
@@ -116,7 +116,7 @@ public void actionPerformed(ActionEvent e) {
 				String sql = "Publisher LIKE '%"+searchKey+"%'";
 				BooksSearchPublisher.main(new String[]{});
 				BooksSearchPublisher.sbName(sql);
-				frame.dispose();
+				//frame.dispose();
 				//System.out.println(sql);
 			}
 		});
@@ -140,7 +140,7 @@ public void actionPerformed(ActionEvent e) {
 				String sql = "Subjects LIKE '%"+searchKey+"%'";
 				BooksSearchSubject.main(new String[]{});
 				BooksSearchSubject.sbName(sql);
-				frame.dispose();
+				//frame.dispose();
 				//System.out.println(sql);
 			}
 		});
@@ -154,7 +154,7 @@ public void actionPerformed(ActionEvent e) {
 				String sql = "BibNum LIKE '%"+searchKey+"%'";
 				BooksSearchBibNum.main(new String[]{});
 				BooksSearchBibNum.sbName(sql);
-				frame.dispose();
+				//frame.dispose();
 				//System.out.println(sql);	
 				}
 		});
